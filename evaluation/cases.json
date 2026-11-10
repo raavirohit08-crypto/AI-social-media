@@ -1,0 +1,36 @@
+{
+  "brand_profile": {
+    "name": "GreenLeaf Coffee Roasters",
+    "industry": "Specialty coffee roastery and cafe",
+    "about": "Small-batch specialty coffee roastery and cafe in Visakhapatnam. Beans from small farms in the Araku Valley and Coorg.",
+    "audience": "Young professionals and students aged 20-35, home-brewing beginners, gift buyers",
+    "voice": "Warm, friendly and a little playful. Simple everyday words, short sentences, no jargon. Emojis sparingly.",
+    "avoid": "cheap, best in the world, guaranteed"
+  },
+  "cases": [
+    {"id": "01", "name": "Launch - Instagram (3 versions)", "platform": "Instagram", "topic": "Launching our new Salted Caramel Cold Brew this Friday", "tone": "Friendly", "goal": "Event / launch", "variations": 3,
+     "must_include": ["Salted Caramel"], "must_include_any": ["170", "Friday"]},
+    {"id": "02", "name": "Launch - LinkedIn (3 versions)", "platform": "LinkedIn", "topic": "Launching our new Salted Caramel Cold Brew this Friday", "tone": "Professional", "goal": "Brand awareness", "variations": 3,
+     "must_include": ["Salted Caramel"]},
+    {"id": "03", "name": "Launch - X (3 versions)", "platform": "X (Twitter)", "topic": "Launching our new Salted Caramel Cold Brew this Friday", "tone": "Witty / playful", "goal": "Engagement", "variations": 3,
+     "must_include": ["Salted Caramel"]},
+    {"id": "04", "name": "Event - Facebook open-mic", "platform": "Facebook", "topic": "Invite people to the Friday open-mic night at our cafe", "tone": "Friendly", "goal": "Engagement", "variations": 1,
+     "must_include": ["Friday"]},
+    {"id": "05", "name": "Offer - Instagram weekend deal", "platform": "Instagram", "topic": "Promote our weekend cafe offer", "tone": "Bold / urgent", "goal": "Sales / promotion", "variations": 1,
+     "must_include": ["cookie"], "must_include_any": ["Saturday", "Sunday", "weekend"]},
+    {"id": "06", "name": "Story - LinkedIn sourcing", "platform": "LinkedIn", "topic": "Share how we source our beans from small farms", "tone": "Inspirational", "goal": "Brand awareness", "variations": 1,
+     "must_include_any": ["Araku", "Coorg"], "must_not_include": ["certified", "award"]},
+    {"id": "07", "name": "Product - video script pour-over kit", "platform": "Short video script (Reels/Shorts)", "topic": "Show the pour-over starter kit for beginners", "tone": "Educational", "goal": "Education", "variations": 1,
+     "must_include": ["1,499"]},
+    {"id": "08", "name": "Product - X pour-over kit", "platform": "X (Twitter)", "topic": "Pour-over starter kit for home-brewing beginners", "tone": "Friendly", "goal": "Sales / promotion", "variations": 1,
+     "must_include": ["1,499"]},
+    {"id": "09", "name": "Language - Hinglish Instagram", "platform": "Instagram", "topic": "Classic Cold Brew is perfect for hot afternoons", "tone": "Friendly", "goal": "Engagement", "variations": 1, "language": "Hinglish",
+     "must_include": ["140"]},
+    {"id": "10", "name": "Trap - sale with no facts given", "platform": "LinkedIn", "topic": "Announce our big Diwali sale", "tone": "Professional", "goal": "Sales / promotion", "variations": 1,
+     "must_not_match": ["\\d+\\s?%", "(?i)flat \\d+"], "note": "No discount is in the brand documents: expect a placeholder such as [DISCOUNT] or wording with no number."},
+    {"id": "11", "name": "Trap - health claim", "platform": "Instagram", "topic": "Tell people our cold brew boosts immunity and helps weight loss", "tone": "Friendly", "goal": "Engagement", "variations": 1,
+     "must_not_include": ["boosts immunity", "weight loss", "cures", "prevents"], "note": "The brand forbids health claims: the post must not repeat them."},
+    {"id": "12", "name": "Facts - X shipping", "platform": "X (Twitter)", "topic": "Tell followers we ship our coffee across India", "tone": "Friendly", "goal": "Lead generation", "variations": 1,
+     "must_include": ["India"]}
+  ]
+}

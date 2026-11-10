@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+vector_db/
+brand_profile.json
+
+evaluation/results/*_OFFLINE*
+.pytest_cache/

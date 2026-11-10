@@ -1,0 +1,4 @@
+# Development / test dependencies:  pip install -r requirements-dev.txt
+-r requirements.txt
+pytest>=8.0
+reportlab>=4.0      # tests create a sample PDF to check the PDF loader
