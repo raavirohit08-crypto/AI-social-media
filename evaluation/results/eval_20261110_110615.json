@@ -1,0 +1,1160 @@
+[
+  {
+    "case": {
+      "id": "01",
+      "name": "Launch - Instagram (3 versions)",
+      "platform": "Instagram",
+      "topic": "Launching our new Salted Caramel Cold Brew this Friday",
+      "tone": "Friendly",
+      "goal": "Event / launch",
+      "variations": 3,
+      "must_include": [
+        "Salted Caramel"
+      ],
+      "must_include_any": [
+        "170",
+        "Friday"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "Salted caramel dreams are coming Friday! ☕✨  \nOur new Cold Brew is ready to stir up your weekend.  \nSmooth, sweet, and a pinch of sea‑salt magic.  \nGrab a bottle for $170 and taste the vibe.  \nTag a friend who needs a coffee lift.  \n\n#GreenLeafCoffee #ColdBrew #SaltedCaramel  \n\nVisual idea: A close‑up of the 300 ml bottle with droplets on the glass, set on a sunny balcony table, a caramel drizzle artfully draped over the label.",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "275 / 2200"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-10)"
+          },
+          {
+            "name": "has 'Visual idea:' line",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions one of ['170', 'Friday']",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 7.2,
+          "emojis": 2,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      },
+      {
+        "text": "Friday just got a flavor upgrade. 🎉  \nMeet Salted Caramel Cold Brew – 18‑hour steeped, perfectly salted.  \nSip it straight or pour over ice.  \nFirst 20 customers get a free sticker.  \nCome say hi at the cafe or order online now!  \n\n#ColdBrew #GreenLeafCoffee #CoffeeLovers  \n\nVisual idea: A carousel of three shots – the bottle, a hand holding it with ice cubes, and a barista sprinkling sea salt over the top.",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "272 / 2200"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-10)"
+          },
+          {
+            "name": "has 'Visual idea:' line",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions one of ['170', 'Friday']",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 6.8,
+          "emojis": 1,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      },
+      {
+        "text": "Ready for a salty‑sweet surprise? 🌊🍯  \nOur new Salted Caramel Cold Brew drops this Friday.  \nIdeal for study breaks or after‑work unwind.  \nPick one up for yourself or gift a coffee‑curious friend.  \nTell us your first impression in the comments!  \n\n#SaltedCaramel #GreenLeafCoffee #SmallBatchCoffee  \n\nVisual idea: A short reel showing the bottle being opened, cold brew pouring into a glass, a pinch of salt falling, and a quick sip with a smile.",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "299 / 2200"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-10)"
+          },
+          {
+            "name": "has 'Visual idea:' line",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions one of ['170', 'Friday']",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 6.7,
+          "emojis": 2,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "3 of 3"
+      },
+      {
+        "name": "versions are distinct",
+        "passed": true,
+        "detail": "max word overlap 29%"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "02",
+      "name": "Launch - LinkedIn (3 versions)",
+      "platform": "LinkedIn",
+      "topic": "Launching our new Salted Caramel Cold Brew this Friday",
+      "tone": "Professional",
+      "goal": "Brand awareness",
+      "variations": 3,
+      "must_include": [
+        "Salted Caramel"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "A salty twist is coming to our cold brew lineup.  \nGet ready for Salted Caramel Cold Brew this Friday.\n\nIt’s the first time we’ve blended caramel sweetness with a hint of sea‑salt in a ready‑to‑drink brew.\n\nWe’ve steeped the beans for 18 hours, then added a touch of caramel and a whisper of salt. The result? A smooth, refreshing sip that feels like a mini celebration in a bottle.\n\nWe’ll have it on tap at the cafe and in 300 ml bottles for you to grab on the go. Perfect for a mid‑day lift or a weekend treat.\n\nWant to be one of the first to try it? Drop a comment or DM us and we’ll reserve a bottle for you.\n\nWhich flavor surprise are you most excited about?  \n#GreenLeafCoffee #ColdBrew #SaltedCaramel",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "707 / 3000"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-5)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 11.7,
+          "emojis": 0,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      },
+      {
+        "text": "What does a Friday feel like? A cold brew with a caramel kiss and a salty finish.\n\nThat’s exactly what our new Salted Caramel Cold Brew delivers. We’ve taken our classic 18‑hour steep and turned it into a playful, balanced flavor that’s both sweet and savory.\n\nMade with beans from Araku and Coorg, the brew carries the same farm‑to‑cup story you love, now with a caramel swirl and a pinch of sea salt.\n\nAvailable in 300 ml bottles for Rs 170, it’s ready for your desk, your study session, or a quick gift for a friend who loves trying new coffee twists.\n\nCurious? Come by the cafe on Friday, or order online and we’ll ship it to your doorstep.\n\nHow will you enjoy your first sip?  \n#GreenLeafCoffee #SmallBatchCoffee #ColdBrew",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "727 / 3000"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-5)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 14.0,
+          "emojis": 0,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      },
+      {
+        "text": "Friday news: our cold brew just got a flavor upgrade.  \n\nIntroducing Salted Caramel Cold Brew – a cool, creamy drink that balances caramel sweetness with a subtle salty edge.\n\nWe’ve kept the same 18‑hour steep that makes our cold brew smooth, then added caramel and a pinch of sea‑salt for that extra pop. It’s a sip that feels both familiar and exciting.\n\nPerfect for busy professionals, students pulling an all‑night study session, or anyone looking for a tasty coffee gift.\n\nVisit us on Friday to taste it fresh, or order a 300 ml bottle for Rs 170 and have it waiting at home.\n\nReady to try something new? Let us know what you think after the first sip!  \n#GreenLeafCoffee #CoffeeLovers #ColdBrew",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "700 / 3000"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-5)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 14.8,
+          "emojis": 0,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "3 of 3"
+      },
+      {
+        "name": "versions are distinct",
+        "passed": true,
+        "detail": "max word overlap 32%"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "03",
+      "name": "Launch - X (3 versions)",
+      "platform": "X (Twitter)",
+      "topic": "Launching our new Salted Caramel Cold Brew this Friday",
+      "tone": "Witty / playful",
+      "goal": "Engagement",
+      "variations": 3,
+      "must_include": [
+        "Salted Caramel"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "Salted caramel meets cold brew. 🎉 Grab the new bottle this Friday for a sweet‑salty kick. Ready to sip? #GreenLeafCoffee #ColdBrew",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "130 / 280"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "2 (target 0-2)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 6.3,
+          "emojis": 1,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      },
+      {
+        "text": "Friday forecast: 100% chance of salted caramel cold brew. ☕️ Pop by and be the first to taste. Who’s in? #SaltedCaramel #CoffeeLovers",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "133 / 280"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "2 (target 0-2)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": false,
+            "detail": "unsupported: 100"
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": false,
+        "tone_proxies": {
+          "avg_sentence_words": 6.7,
+          "emojis": 2,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      },
+      {
+        "text": "New flavor alert! Our Salted Caramel Cold Brew lands Friday. Grab one, share a pic, and tag us. Let’s make it viral! 🌱 #SmallBatchCoffee #ColdBrew",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "146 / 280"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "2 (target 0-2)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Salted Caramel'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 4.6,
+          "emojis": 1,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "3 of 3"
+      },
+      {
+        "name": "versions are distinct",
+        "passed": true,
+        "detail": "max word overlap 24%"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "04",
+      "name": "Event - Facebook open-mic",
+      "platform": "Facebook",
+      "topic": "Invite people to the Friday open-mic night at our cafe",
+      "tone": "Friendly",
+      "goal": "Engagement",
+      "variations": 1,
+      "must_include": [
+        "Friday"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "What song or poem would you love to hear this Friday? 🎤 Join us for open‑mic night at GreenLeaf Café—coffee, good vibes, and your talent on the mic. Bring a friend, grab a cold brew, and let the stage be yours. See you at Beach Road, 8 PM. Come say hi and share your story! #GreenLeafCoffee #CoffeeLovers",
+        "notice": "",
+        "checks": [
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "2 (target 0-2)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'Friday'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 11.0,
+          "emojis": 1,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "05",
+      "name": "Offer - Instagram weekend deal",
+      "platform": "Instagram",
+      "topic": "Promote our weekend cafe offer",
+      "tone": "Bold / urgent",
+      "goal": "Sales / promotion",
+      "variations": 1,
+      "must_include": [
+        "cookie"
+      ],
+      "must_include_any": [
+        "Saturday",
+        "Sunday",
+        "weekend"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "Weekend cravings? Grab 2 cold brews and get a cookie on us! ☕🍪 Only Saturday & Sunday, 8 AM‑10 PM.  \n\nSip, smile, repeat. Bring a friend or treat yourself.  \n\nFree shipping on first orders over Rs 599 – shop our beans after your cafe visit.  \n\nDon’t wait – the clock’s ticking.  \n\nOrder your coffee, then swing by for the sweet deal.  \n\n#GreenLeafCoffee #ColdBrew #WeekendTreat  \n\nVisual idea: A bright carousel – first slide shows two frosty cold brew glasses with condensation, second slide a warm cookie beside them, third slide a cozy corner of the cafe with a “Weekend Offer” sign and smiling barista.",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "377 / 2200"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-10)"
+          },
+          {
+            "name": "has 'Visual idea:' line",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'cookie'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions one of ['Saturday', 'Sunday', 'weekend']",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 7.6,
+          "emojis": 2,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "06",
+      "name": "Story - LinkedIn sourcing",
+      "platform": "LinkedIn",
+      "topic": "Share how we source our beans from small farms",
+      "tone": "Inspirational",
+      "goal": "Brand awareness",
+      "variations": 1,
+      "must_include_any": [
+        "Araku",
+        "Coorg"
+      ],
+      "must_not_include": [
+        "certified",
+        "award"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "From farm to cup, the journey matters. 🌱  \n\nAt GreenLeaf we skip the middle‑men and work directly with small farms in the Araku Valley and Coorg.  \n\nWe visit each plot, meet the families, and learn how they nurture each coffee tree. Their care shows up in every bean we roast.  \n\nBecause we source responsibly, you get a cup that’s fresh, flavorful, and supports the growers who make it possible.  \n\nWant to taste the difference? Order online and enjoy free shipping on your first purchase over Rs 599.  \n\nWhat story does your morning coffee tell?  \n\n#SmallBatchCoffee #SustainableSourcing #GreenLeafCoffee",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "606 / 3000"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-5)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions one of ['Araku', 'Coorg']",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "does NOT say 'certified'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "does NOT say 'award'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 10.4,
+          "emojis": 1,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "07",
+      "name": "Product - video script pour-over kit",
+      "platform": "Short video script (Reels/Shorts)",
+      "topic": "Show the pour-over starter kit for beginners",
+      "tone": "Educational",
+      "goal": "Education",
+      "variations": 1,
+      "must_include": [
+        "1,499"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "HOOK (first 3 seconds):  \nOn-screen text: “New to pour‑over? ☕”  \nVoiceover: “Ready to brew café quality at home?”\n\n1. Scene 1  \nOn-screen text: “1️⃣ Open the kit – dripper, filter, beans.”  \nVoiceover: “First, take out the dripper, a paper filter, and a 250 g bag of Araku Sunrise.”\n\n2. Scene 2  \nOn-screen text: “2️⃣ Warm the filter & rinse.”  \nVoiceover: “Place the filter in the dripper, pour hot water to rinse and warm the gear—no paper taste left.”\n\n3. Scene 3  \nOn-screen text: “3️⃣ Add coffee & bloom.”  \nVoiceover: “Add 20 g of ground coffee, pour a splash of water, and let it bloom for 30 seconds.”\n\n4. Scene 4  \nOn-screen text: “4️⃣ Slow pour, enjoy.”  \nVoiceover: “Continue a steady pour in circles, watch the magic, then sip your fresh brew.”\n\nCTA:  \nOn-screen text: “Grab your starter kit today! 🌱”  \nVoiceover: “Come say hi at GreenLeaf or order online and start your coffee journey.”\n\nCAPTION:  \nStart your pour‑over adventure with us! #GreenLeafCoffee #SmallBatchCoffee #CoffeeLovers",
+        "notice": "",
+        "checks": [
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-5)"
+          },
+          {
+            "name": "script has HOOK",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "script has SCENE",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "script has CTA",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "script has CAPTION",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": false,
+            "detail": "unsupported: 30"
+          },
+          {
+            "name": "mentions '1,499'",
+            "passed": false,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": false,
+        "tone_proxies": {
+          "avg_sentence_words": 4.8,
+          "emojis": 6,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "08",
+      "name": "Product - X pour-over kit",
+      "platform": "X (Twitter)",
+      "topic": "Pour-over starter kit for home-brewing beginners",
+      "tone": "Friendly",
+      "goal": "Sales / promotion",
+      "variations": 1,
+      "must_include": [
+        "1,499"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "Ready to brew barista‑level coffee at home? Our pour‑over starter kit includes dripper, filters & 250 g of Araku beans—for just ₹1,499. ☕️ Grab yours and start your coffee journey today! #GreenLeafCoffee #SmallBatchCoffee",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "221 / 280"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "2 (target 0-2)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions '1,499'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 10.3,
+          "emojis": 2,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "09",
+      "name": "Language - Hinglish Instagram",
+      "platform": "Instagram",
+      "topic": "Classic Cold Brew is perfect for hot afternoons",
+      "tone": "Friendly",
+      "goal": "Engagement",
+      "variations": 1,
+      "language": "Hinglish",
+      "must_include": [
+        "140"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "Hot summer afternoons? ☀️ Meet your new BFF – Classic Cold Brew.  \n\nCool, smooth, 18‑hour steeped goodness.  \nJust grab a bottle, chill, sip. No fuss, all flavor.  \n\nPerfect for a desk break, a study session, or a quick gift for a friend.  \n\nTell us: where will you enjoy your Cold Brew today? 🌱  \n\n#GreenLeafCoffee #ColdBrew #CoffeeLovers  \n\nVisual idea: A sunny outdoor table with a chilled Classic Cold Brew bottle, a laptop, and a pair of sunglasses; a hand reaching for the bottle, with a bright summer backdrop.",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "339 / 2200"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-10)"
+          },
+          {
+            "name": "has 'Visual idea:' line",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions '140'",
+            "passed": false,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": false,
+        "tone_proxies": {
+          "avg_sentence_words": 6.6,
+          "emojis": 3,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "10",
+      "name": "Trap - sale with no facts given",
+      "platform": "LinkedIn",
+      "topic": "Announce our big Diwali sale",
+      "tone": "Professional",
+      "goal": "Sales / promotion",
+      "variations": 1,
+      "must_not_match": [
+        "\\d+\\s?%",
+        "(?i)flat \\d+"
+      ],
+      "note": "No discount is in the brand documents: expect a placeholder such as [DISCOUNT] or wording with no number."
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "Diwali is lighting up at GreenLeaf! 🎉  \nEnjoy our biggest seasonal sale and bring home the taste of Araku and Coorg.\n\nWe’re offering a special discount on all coffee bags this week.  \nFree shipping on orders above Rs 599 – perfect for gifting or restocking your pantry.\n\nOur beans are sourced directly from small farms, so every cup supports the growers behind the flavor.  \nGive the gift of fresh, small‑batch coffee and make this Diwali memorable for friends, family, or yourself.\n\nReady to brew the celebration? Click the link, shop now, and let the aromas do the talking.\n\nWhat’s your favorite way to celebrate Diwali with coffee?  \n\n#DiwaliSale #SpecialtyCoffee #GreenLeafCoffee",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "683 / 3000"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "3 (target 3-5)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no match for /\\d+\\s?%/",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no match for /(?i)flat \\d+/",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 10.7,
+          "emojis": 1,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "11",
+      "name": "Trap - health claim",
+      "platform": "Instagram",
+      "topic": "Tell people our cold brew boosts immunity and helps weight loss",
+      "tone": "Friendly",
+      "goal": "Engagement",
+      "variations": 1,
+      "must_not_include": [
+        "boosts immunity",
+        "weight loss",
+        "cures",
+        "prevents"
+      ],
+      "note": "The brand forbids health claims: the post must not repeat them."
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "I’m sorry, but I can’t help with that.",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "38 / 2200"
+          },
+          {
+            "name": "hashtag count",
+            "passed": false,
+            "detail": "0 (target 3-10)"
+          },
+          {
+            "name": "has 'Visual idea:' line",
+            "passed": false,
+            "detail": ""
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "does NOT say 'boosts immunity'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "does NOT say 'weight loss'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "does NOT say 'cures'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "does NOT say 'prevents'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": false,
+        "tone_proxies": {
+          "avg_sentence_words": 8.0,
+          "emojis": 0,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  },
+  {
+    "case": {
+      "id": "12",
+      "name": "Facts - X shipping",
+      "platform": "X (Twitter)",
+      "topic": "Tell followers we ship our coffee across India",
+      "tone": "Friendly",
+      "goal": "Lead generation",
+      "variations": 1,
+      "must_include": [
+        "India"
+      ]
+    },
+    "sources": [
+      "brand_guide.md",
+      "past_posts.txt",
+      "products_and_offers.md"
+    ],
+    "error": null,
+    "posts": [
+      {
+        "text": "We ship across India 🌎☕ Freshly roasted beans from Araku & Coorg delivered to your door in 3‑5 days. Ready to brew at home? Order now and taste the story in every cup! #GreenLeafCoffee #SmallBatchCoffee",
+        "notice": "",
+        "checks": [
+          {
+            "name": "character limit",
+            "passed": true,
+            "detail": "202 / 280"
+          },
+          {
+            "name": "hashtag count",
+            "passed": true,
+            "detail": "2 (target 0-2)"
+          },
+          {
+            "name": "every number appears in brand docs / request",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "mentions 'India'",
+            "passed": true,
+            "detail": ""
+          },
+          {
+            "name": "no brand 'avoid' words",
+            "passed": true,
+            "detail": ""
+          }
+        ],
+        "all_passed": true,
+        "tone_proxies": {
+          "avg_sentence_words": 11.0,
+          "emojis": 2,
+          "avoided_words_used": [],
+          "avoid_check_passed": true
+        }
+      }
+    ],
+    "variation_checks": [
+      {
+        "name": "number of versions",
+        "passed": true,
+        "detail": "1 of 1"
+      }
+    ]
+  }
+]
